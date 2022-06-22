@@ -75,4 +75,9 @@ Score  | Expectations
 
 |WHAT’S GOING WELL/STRUGGLES|DEVELOPMENT PLAN|INSTRUCTOR FEEDBACK|
 |---------------------------|----------------|-------------------|
-|                           |                |                   |
+|initial data collection was straightforward--downloaded a CSV|                |                   |
+|randomly sampling proved a bit challening.  Needed to pare down from approx 6M rows|                |                   |
+|data didn't require too much cleaning/munging/imputing -- text strings cleaned up|                |                   |
+|set up both sql db and csv with records|                |                   |
+|data contains approx 20k rows.  Wondering if I should increase the number for analysis (study that I found that did similar used 1k)|                |                   |
+
