@@ -16,9 +16,15 @@ Use your newfound skills to source and collect the relevant data for your projec
 - **Requirements**: Source and format the data for your project. Perform preliminary data munging and cleaning of the data relevant to your project goals.  Describe your data keeping the intended audience of your final report in mind
 - **Format:** Table, file, or database with relevant text file or notebook description
 
+### **[Capstone, Part 3: EDA + Preliminary Analysis][part-3]**
+
+Begin quantitatively describing and visualizing your data. With rich datasets, EDA can go down an endless number of roads. Maintain perspective on your goals and scope your EDA accordingly. Managing your own time is a critical skill in analysis projects.  Keep notes on your approach, results, setbacks, and findings.
+
+- **Requirements**: Perform initial descriptive and visual analysis of your data. Identify outliers, summarize risks and limitations, and describe how your EDA will inform your modeling decisions
+- **Format:** Jupyter Notebook(s)
+
 ### ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Next Steps
 
-* **Capstone, Part 3: EDA + Preliminary Analysis**
 * **Capstone, Part 4: Findings + Technical Report**
 * **Capstone, Part 5: Presentation + Non-Technical Summary**
 
@@ -30,7 +36,7 @@ Date | Assignment
 -----| ----------
 6/13 | [Part 1][part-1]
 6/21 | [Part 2][part-2]
-7/5  | Part 3
+7/5  | [Part 3][part-3]
 7/13 | Part 4
 7/20 | Part 5
 
@@ -38,3 +44,4 @@ Date | Assignment
 
 [part-1]: ./part-01/
 [part-2]: ./part-02/
+[part-3]: ./part-03/
