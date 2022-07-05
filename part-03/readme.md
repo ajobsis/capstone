@@ -66,8 +66,15 @@ Score  | Expectations
 **2** | _Meets expectations, good job!_
 
 ## PROGRESS REPORT
+(see code folder in repo for progress report)
 **Student Check-in:**
 
 |WHAT’S GOING WELL/STRUGGLES|DEVELOPMENT PLAN|INSTRUCTOR FEEDBACK|
 |---------------------------|----------------|-------------------|
-|                           |                |                   |
+|cleaning of outliers went well|                |                   |
+|initial vectorization went well|                |                   |
+|slight set back with the data cleaning|data was fixed in cleaning notebook|  |
+|Some of the columns had sparse data|columns were dropped|                   |
+
+
+
