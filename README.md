@@ -23,10 +23,22 @@ Begin quantitatively describing and visualizing your data. With rich datasets, E
 - **Requirements**: Perform initial descriptive and visual analysis of your data. Identify outliers, summarize risks and limitations, and describe how your EDA will inform your modeling decisions
 - **Format:** Jupyter Notebook(s)
 
+### **[Capstone, Part 4: Findings + Technical Report][part-4]**
+
+Share your technical findings with your fellow data scientists. Explain your goals, describe modeling choices, evaluate model performance, and discuss results. Data science reporting is technical, but don’t forget that you should tell a compelling story about your data.
+
+- **Requirements**: Summarize your goals and metrics for success, variables of interest, and removal of any outliers or data imputation. Your process description should be concise and relevant to your goals. Summarize statistical analysis, including model selection,  implementation, evaluation, and inference. Be convincing – justify all important decisions! Clearly label plots and visualizations. Include an Executive Summary
+- **Format:** Jupyter Notebook(s)
+
+
 ### ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Next Steps
 
-* **Capstone, Part 4: Findings + Technical Report**
 * **Capstone, Part 5: Presentation + Non-Technical Summary**
+
+Take your findings and share one 4-minute presentation that delivers the most important insights from your project to a non-technical audience and one 10-minute presentation for your technical audience. Tell us the most interesting story about your data. Break down your process for a novice audience. Make sure to include compelling visuals. Time is short, so be sure to practice and include only the most relevant components of your project.
+
+- **Requirements**: Convey your goals, limits/assumptions, methods and their justification, findings, and conclusions. Include graphics and visualizations
+- **Format:** Interactive graphic presentations, website, or slide decks
 
 ### ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Approximate Due Dates
 
@@ -37,11 +49,13 @@ Date | Assignment
 6/13 | [Part 1][part-1]
 6/21 | [Part 2][part-2]
 7/5  | [Part 3][part-3]
-7/13 | Part 4
-7/20 | Part 5
+7/15 | [Part 4][part-4]
+7/20 | [Part 5][part-5]
 
 <!--- LINKS --->
 
 [part-1]: ./part-01/
 [part-2]: ./part-02/
 [part-3]: ./part-03/
+[part-4]: ./part-04/
+[part-5]: ./part-05/
