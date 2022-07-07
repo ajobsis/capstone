@@ -26,7 +26,7 @@ Time to present!  You will be doing two presentations: a non-technical and a tec
 
 ## REQUIREMENTS - TECH: 10 mins
 
-1. **10 minutes* (no longer!) presentation for a technical audience.
+1. **10 minutes** (no longer!) presentation for a technical audience.
    - Again, don't just deliver the information; tell a story about the problem and solution
 
 2. Make sure you cover the following areas:
