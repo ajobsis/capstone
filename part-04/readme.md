@@ -94,4 +94,9 @@ Score  | Expectations
 
 |WHAT’S GOING WELL/STRUGGLES|DEVELOPMENT PLAN|INSTRUCTOR FEEDBACK|
 |---------------------------|----------------|-------------------|
-|                           |                |                   |
+| Struggling with time management in the home stretch|  |  |
+| models are mostly straightforward |  |  |
+| Not sure how to quanify nn model (other than what I've done) |  |  |
+
+
+
